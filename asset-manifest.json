@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cart-react%20/static/css/main.4323dd2b.css",
+    "main.js": "/cart-react%20/static/js/main.d7c37780.js",
+    "static/js/453.7b87f909.chunk.js": "/cart-react%20/static/js/453.7b87f909.chunk.js",
+    "static/media/Earfun.jpg": "/cart-react%20/static/media/Earfun.cc0b337366f048f0e91a.jpg",
+    "static/media/stainlessSteel.jpg": "/cart-react%20/static/media/stainlessSteel.d8f42cde7fa045cc8877.jpg",
+    "static/media/macbook.jpg": "/cart-react%20/static/media/macbook.f0b8e7e9eceb2acf6996.jpg",
+    "static/media/north-coat.jpg": "/cart-react%20/static/media/north-coat.5aa08b15948480ef05f9.jpg",
+    "static/media/appleCover.jpg": "/cart-react%20/static/media/appleCover.2f029131ab49cca70525.jpg",
+    "static/media/watch.jpg": "/cart-react%20/static/media/watch.09139dd724847dc98aad.jpg",
+    "static/media/Sauvage.jpg": "/cart-react%20/static/media/Sauvage.c39b694601cefd1d77f0.jpg",
+    "static/media/smartwatch.jpg": "/cart-react%20/static/media/smartwatch.9a8d44ada06dc7ce66c1.jpg",
+    "static/media/L-shape.jpg": "/cart-react%20/static/media/L-shape.982da0eddbbb9cd6734f.jpg",
+    "static/media/tracksuit.jpg": "/cart-react%20/static/media/tracksuit.23943a0b07054931fef1.jpg",
+    "static/media/phone.jpg": "/cart-react%20/static/media/phone.29749dcb3e813456915e.jpg",
+    "static/media/gucci-bag.jpg": "/cart-react%20/static/media/gucci-bag.6ece460f46fc7d139d93.jpg",
+    "index.html": "/cart-react%20/index.html",
+    "main.4323dd2b.css.map": "/cart-react%20/static/css/main.4323dd2b.css.map",
+    "main.d7c37780.js.map": "/cart-react%20/static/js/main.d7c37780.js.map",
+    "453.7b87f909.chunk.js.map": "/cart-react%20/static/js/453.7b87f909.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4323dd2b.css",
+    "static/js/main.d7c37780.js"
+  ]
+}
